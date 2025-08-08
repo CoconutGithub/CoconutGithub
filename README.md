@@ -10,4 +10,4 @@
 \
 \
 \
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoconutGithub&theme=calm&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoconutGithub&theme=calm&hide_border=true&card_width=400&card_height=200&hide_longest_streak=true)](https://git.io/streak-stats)
