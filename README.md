@@ -11,5 +11,5 @@
 \
 \
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoconutGithub&theme=calm&hide_border=true&card_width=400&card_height=200&hide_longest_streak=true)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=CoconutGithub&theme=calm&count_private=true&hide=stars,issues,contribs&hide_rank=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=CoconutGithub&theme=calm&count_private=true&hide=stars,issues,contribs&hide_rank=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
